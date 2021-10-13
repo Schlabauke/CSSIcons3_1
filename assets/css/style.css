@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color:rgb(39, 37, 37);
+    margin:5vh;
+}
+
+div {
+    display: inline-block;
+    font-size: 4vh;
+    padding: 2vw;
+    }
+div:first-of-type{
+    color:#1877F2;
+    margin-left: 35%;
+}
+div:nth-of-type(2){
+    color:#E4405F;
+}
+div:nth-of-type(3){
+    color:#1DA1F2;
+}
+div:nth-of-type(4){
+    color:#0A66C2;
+}
+div:nth-of-type(5){
+    color:#25D366;
